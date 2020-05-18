@@ -1,4 +1,4 @@
-﻿using Microsoft.IdentityModel.Clients.ActiveDirectory;
+﻿
 using System;
 using System.Linq;
 using System.Net;
